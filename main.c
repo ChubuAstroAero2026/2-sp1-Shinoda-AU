@@ -6,7 +6,7 @@ int main()
   int b;
   scanf("%lf",&a);
   scanf("%d",&b);
-  printf("%.'b'lf",a)
+  printf("%.blf",a)
 
   
   return 0;
