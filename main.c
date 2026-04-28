@@ -2,7 +2,11 @@
 
 int main()
 {
-  //ここにコードを書く
+  double a;
+  int b;
+  scanf("%lf",&a);
+  scanf("%d",&b);
+  printf("%.'b'lf",a)
 
   
   return 0;
